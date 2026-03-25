@@ -37,7 +37,11 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 
 ---
+## Simulation
 
+<img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/b87dcf95-9a2f-4250-b00a-77323e410795" />
+
+---
 ## Tabulation
 
 <img width="1600" height="938" alt="image" src="https://github.com/user-attachments/assets/799547be-4d82-41eb-8012-26f00c7c2fe8" />
